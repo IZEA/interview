@@ -1,8 +1,8 @@
 # Interview
 
-Interested in joining the [IZEA Engineering][izea] team? We believe that the
-best way for you to show us who you are is with your code. Completing a project,
-in addition to an physical interview, has many benefits:
+Interested in joining the [IZEA Engineering][izea] team? We believe that a great 
+way for you to show us who you are is with your code. Completing a project, in 
+addition to a physical interview, has many benefits:
 
 - **You have code to share.** Maybe your current employer doesn't allow you to
   show us what you've been working on, or maybe you just finished school or a
@@ -55,7 +55,7 @@ reach out to us on [twitter][], or send us an [email][].
 
 ![IZEA Logo](http://new.izea.com/wp-content/uploads/2013/10/izea_small.png)
 
-We are IZEA: The Creator Marketplace. Our cloud-based technologies that connect
+We are IZEA: The Creator Marketplace. Our cloud-based technologies connect
 Brands and Publishers with content Creators who blog, tweet, pin, and post on
 their behalf.
 
