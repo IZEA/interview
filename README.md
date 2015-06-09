@@ -18,48 +18,29 @@ in addition to an physical interview, has many benefits:
 
 ## Getting Started
 
-### 1. Fork the Repository
+### 1. Pick a Project
 
-First, you will want to get a copy of this code on your local computer. This
-can be accomplished with two steps:
-
-- [Fork][] this repository to your own GitHub account.
-- Clone your fork to your local computer.
-
-If you are new to GitHub or have not followed the forking/cloning process, they
-have a [helpful guide][fork-guide] to assist you.
-
-### 2. Checkout the Project Branch
-
-Each platform that we use at IZEA has a branch within this repository. The
-branches contain a `README.md` with a description of the project we would like
-you to build. Pick the platform you are most comfortable with and checkout that
-branch.
-
-For example if you are building the [Rails][rails-branch] project, you would
-checkout the `rails` branch:
-
-```
-git checkout rails
-```
+Each platform that we use at IZEA has a folder within this repository. The
+folder contains a `README.md` with a description of the project we would like
+you to build.
 
 We currently offer two platforms:
 
-- [iPhone][iphone-branch]
-- [Rails][rails-branch]
+- [iPhone](iphone)
+- [Rails](rails)
 
-### 3. Commit Often
+### 2. Commit Often
 
 At IZEA, we like to commit often. This helps document your thought process and
 makes it much easier to revert a change that causes a bug.
 
-### 4. Have Fun
+### 3. Have Fun
 
 This is your chance to express yourself. If you have knowledge of technologies
 that you think will help with completing the project, use them. We love learning
 just as much as you!
 
-### 5. Apply
+### 4. Apply
 
 You can view open positions and apply [online][apply]. Don't forget to include
 the link to your GitHub profile.
@@ -93,10 +74,6 @@ View our current [job openings][apply] or read more [about us][about-us].
 [about-us]: http://corp.izea.com/
 [apply]: http://corp.izea.com/company/careers/apply-to-join-izea/
 [email]: mailto:careers@izea.com
-[fork]: https://github.com/IZEA/interview/fork
-[fork-guide]: https://guides.github.com/activities/forking/
-[iphone-branch]: https://github.com/IZEA/interview/tree/iphone
 [izea]: https://izea.com/
 [open-issue]: https://github.com/IZEA/interview/issues
-[rails-branch]: https://github.com/IZEA/interview/tree/rails
 [twitter]: https://twitter.com/izea
