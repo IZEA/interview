@@ -28,7 +28,7 @@ We currently offer two platforms:
 
 - [iPhone](iphone)
 - [Rails](rails)
-- [HTML/CSS](frontend)
+- [HTML/CSS/JS](frontend)
 
 ### 2. Commit Often
 
