@@ -1,7 +1,7 @@
 # Interview
 
-Interested in joining the [IZEA Engineering][izea] team? We believe that a great 
-way for you to show us who you are is with your code. Completing a project, in 
+Interested in joining the [IZEA Engineering][izea] team? We believe that a great
+way for you to show us who you are is with your code. Completing a project, in
 addition to a physical interview, has many benefits:
 
 - **You have code to share.** Maybe your current employer doesn't allow you to
@@ -28,6 +28,7 @@ We currently offer two platforms:
 
 - [iPhone](iphone)
 - [Rails](rails)
+- [HTML/CSS](frontend)
 
 ### 2. Commit Often
 
