@@ -10,7 +10,8 @@ We believe that a good front end should be built using semantic markup and well-
 - [ ] The page should be responsive rather than have a separate mobile version.
 - [ ] Aside from the provided images, no other images should be used in the creation of your page.
 - [ ] If you do not have access to the Helvetica font, you may substitute with a sans-serif of your choosing.
-- [ ] You must use a CSS preprocessor to build your page. You may use Sass or Less.
+- [ ] Hover state for navigation links should use the same style as their active state (As represented in mock images).
+- [ ] Visited state for navigation links should use the same style as their inactive state (As represented in mock images).
 
 ## Bonus Points
 
