@@ -30,18 +30,23 @@ We currently offer two platforms:
 - [iPhone](iphone)
 - [Rails](rails)
 
-### 2. Commit Often
+### 2. Create a New Repository
+
+Since we don't offer a starting point for any of the projects, create a new
+repository on your GitHub account. It can be public or private.
+
+### 3. Commit Often
 
 At IZEA, we like to commit often. This helps document your thought process and
 makes it much easier to revert a change that causes a bug.
 
-### 3. Have Fun
+### 4. Have Fun
 
 This is your chance to express yourself. If you have knowledge of technologies
 that you think will help with completing the project, use them. We love learning
 just as much as you!
 
-### 4. Apply
+### 5. Apply
 
 You can view open positions and apply [online][apply]. Don't forget to include
 the link to your GitHub profile.
