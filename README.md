@@ -27,7 +27,7 @@ you to build.
 We currently offer two platforms:
 
 - [HTML/CSS/JS](front_end)
-- [iPhone](iphone)
+- [iOS](ios)
 - [Rails](rails)
 
 ### 2. Create a New Repository

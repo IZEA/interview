@@ -1,7 +1,10 @@
-# iPhone - Interview
+# iOS Project
 
 We love Twitter and several of our products interact with it. This goal of this
 project is to build a simple Twitter client.
+
+If any special requirements have been conveyed to you from your interview
+team, they supercede the following.
 
 ## Requirements
 
