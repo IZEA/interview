@@ -30,6 +30,7 @@ We currently offer the following projects:
 - [HTML/CSS/JS](front_end)
 - [iOS](ios)
 - [Rails](rails)
+- [Web Services](web_services)
 
 ### 2. Create a New Repository
 
