@@ -14,17 +14,18 @@ addition to a physical interview, has many benefits:
   chance to show us your best work.
 
 - **Everyone works on the same project.** All job candidates work on the same
-  project. This allows us to look at everyone objectively based on their work.
+  set of projects. This allows us to look at everyone objectively based on 
+  their work.
 
 ## Getting Started
 
 ### 1. Pick a Project
 
-Each platform that we use at IZEA has a folder within this repository. The
-folder contains a `README.md` with a description of the project we would like
-you to build.
+Each type of technology that we use at IZEA has a representative folder within 
+this repository. The folder contains a `README.md` with a description of the 
+project we would like you to build.
 
-We currently offer two platforms:
+We currently offer the following projects:
 
 - [HTML/CSS/JS](front_end)
 - [iOS](ios)
@@ -54,12 +55,12 @@ the link to your GitHub profile.
 ## Need Help?
 
 If you are having difficulty getting started, confused about the project, or
-stuck trying to solve a problem, you can either [open an issue][open-issue],
-reach out to us on [twitter][], or send us an [email][].
+stuck trying to solve a problem, you can either [open an issue][open-issue] or
+reach out to us on [Twitter][twitter].
 
 ## About IZEA
 
-![IZEA Logo](http://new.izea.com/wp-content/uploads/2013/10/izea_small.png)
+![IZEA Logo](http://qa2.izea.com/wp-content/uploads/2015/09/izea-sml.png)
 
 We are IZEA: The Creator Marketplace. Our cloud-based technologies connect
 Brands and Publishers with content Creators who blog, tweet, pin, and post on
@@ -67,7 +68,7 @@ their behalf.
 
 Our driving belief is that the only way to thrive in our rapidly changing world
 is to change ahead of it. IZEA is in a constant state of evolution and
-reinvention. While we have been around for seven years, we operate like an
+reinvention. While we have been around for many years, we operate like an
 entrepreneurial, scrappy start-up. Your time here will be exciting, educational,
 and at times, a bit crazy.
 
@@ -79,7 +80,6 @@ View our current [job openings][apply] or read more [about us][about-us].
 
 [about-us]: http://corp.izea.com/
 [apply]: http://corp.izea.com/company/careers/apply-to-join-izea/
-[email]: mailto:careers@izea.com
 [izea]: https://izea.com/
 [open-issue]: https://github.com/IZEA/interview/issues
-[twitter]: https://twitter.com/izea
+[twitter]: https://twitter.com/izeaengineering
