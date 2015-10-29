@@ -1,6 +1,9 @@
-# HTML/CSS/JS - Interview
+# HTML/CSS/JS Project
 
 We believe that a good front end should be built using semantic markup and well-structured CSS. To that end, it's important that our front end developers demonstrate the ability to convert a mocked-up page image into well-written code. The goal of this excercise is to take the mockups provided and build an HTML/CSS representation of them.
+
+If any special requirements have been conveyed to you from your interview
+team, they supercede the following.
 
 ## Requirements
 
