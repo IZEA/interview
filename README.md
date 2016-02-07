@@ -14,21 +14,22 @@ addition to a physical interview, has many benefits:
   chance to show us your best work.
 
 - **Everyone works on the same project.** All job candidates work on the same
-  set of projects. This allows us to look at everyone objectively based on 
+  set of projects. This allows us to look at everyone objectively based on
   their work.
 
 ## Getting Started
 
 ### 1. Pick a Project
 
-Each type of technology that we use at IZEA has a representative folder within 
-this repository. The folder contains a `README.md` with a description of the 
+Each type of technology that we use at IZEA has a representative folder within
+this repository. The folder contains a `README.md` with a description of the
 project we would like you to build.
 
 We currently offer the following projects:
 
 - [HTML/CSS/JS](front_end)
 - [iOS](ios)
+- [Android](android)
 - [Rails](rails)
 - [Web Services](web_services)
 
