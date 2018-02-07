@@ -19,6 +19,10 @@ team, they supercede the following.
 - [ ] The user should be able to view historical tweets from their timeline.
 - [ ] The historical tweets should be stored in the local database.
 
+## Bonus
+
+- [ ] Build your frontend as a seperate Ember.js app that leverages a JSON api.
+
 [aws]: http://aws.amazon.com/
 [heroku]: https://www.heroku.com/
 [twitter-api]: https://dev.twitter.com/overview/documentation
