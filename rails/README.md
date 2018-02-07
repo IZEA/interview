@@ -9,7 +9,7 @@ team, they supercede the following.
 
 ## Requirements
 
-- [ ] The application can be built with Rails 3.2.x or 4.2.x.
+- [ ] The application must be built with 4 or higher.
 - [ ] The application should be deployed to [Heroku][] or [Amazon AWS][aws].
 
 ## User Stories
