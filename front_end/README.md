@@ -7,8 +7,8 @@ team, they supersede the following.
 
 ## Requirements
 
--- [ ] Display a paginated list of posts. The data should be retrieved from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/), and there should be pagination controls to retrieve additional pages of data.
--- [ ] Each post should be able to toggle a side sliding panel/modal that is populated with that user's data. You can make this look & behave pretty much however you want, but it should not trigger a full route transition.
+- [ ] Display a paginated list of post titles. The data should be retrieved from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/), and there should be pagination controls to retrieve additional pages of data.
+- [ ] Each post should be able to toggle a side sliding panel/modal that is populated with the rest of that post's data. You should also include the data of the user related to that post. Make this look & behave however you want, but it should not trigger a full route transition.
 - [ ] We are not providing a mock for this, you will need to figure out a design that you feel represents the best user experience.
 - [ ] Do not use a front end framework such as bootstrap, but it's fine to use a utility framework like tailwind or neat.
 - [ ] The UI should be fairly responsive.
