@@ -62,8 +62,6 @@ reach out to us on [Twitter][twitter].
 
 ## About IZEA
 
-![IZEA Logo](http://qa2.izea.com/wp-content/uploads/2015/09/izea-sml.png)
-
 We are IZEA: The Creator Marketplace. Our cloud-based technologies connect
 Brands and Publishers with content Creators who blog, tweet, pin, and post on
 their behalf.
@@ -80,8 +78,8 @@ where creativity and productivity are valued over a suit and tie. We call it
 
 View our current [job openings][apply] or read more [about us][about-us].
 
-[about-us]: http://corp.izea.com/
-[apply]: http://corp.izea.com/company/careers/apply-to-join-izea/
+[about-us]: http://izea.com/
+[apply]: http://izea.com/company/careers/apply-to-join-izea/
 [izea]: https://izea.com/
 [open-issue]: https://github.com/IZEA/interview/issues
 [twitter]: https://twitter.com/izeaengineering
