@@ -1,21 +1,13 @@
-# HTML/CSS/JS Project
+# Ember Project
 
-We believe that a good front end should be built using semantic markup and well-structured CSS. To that end, it's important that our front end developers demonstrate the ability to convert a mocked-up page image into well-written code. The goal of this excercise is to take the mockups provided and build an HTML/CSS representation of them.
+We've put your soft skills to the test, now we want to see some dope code! For this part of the interview, we would like you to create a small Ember.js app using this [API](https://reqres.in/). We would like for you to use ember-data to talk to this API, but if that turns out too complex, feel free to use a simpler library like [ember-ajax](https://github.com/ember-cli/ember-ajax).
 
 If any special requirements have been conveyed to you from your interview
-team, they supercede the following.
+team, they supersede the following.
 
 ## Requirements
 
+- [ ] Create a paginated list of users.
+- [ ] Each user should be able to toggle a side sliding panel/modal that is populated with that user's data.
+- [ ] Style it to the best of your ability using sass.
 - [ ] Do not use a front end framework such as bootstrap.
-- [ ] You can choose to either include the filler text as written, or provide your own.
-- [ ] Use the images provided in the assets directory where applicable.
-- [ ] The page should be responsive rather than have a separate mobile version.
-- [ ] Aside from the provided images, no other images should be used in the creation of your page.
-- [ ] If you do not have access to the Helvetica font, you may substitute with a sans-serif of your choosing.
-- [ ] Hover state for navigation links should use the same style as their active state (As represented in mock images).
-- [ ] Visited state for navigation links should use the same style as their inactive state (As represented in mock images).
-
-## Bonus Points
-
-Instead of hiding the navigation menu on mobile devices, adapt it into a mobile-friendly interface of your design. You may use JavaScript to achieve your desired results.

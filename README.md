@@ -27,7 +27,7 @@ project we would like you to build.
 
 We currently offer the following projects:
 
-- [HTML/CSS/JS](front_end)
+- [Ember.js](front_end)
 - [iOS](ios)
 - [Android](android)
 - [Rails](rails)
