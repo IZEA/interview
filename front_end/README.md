@@ -8,6 +8,6 @@ team, they supersede the following.
 ## Requirements
 
 - [ ] Display a paginated list of users. The data should be retrieved from the [Reqres API](https://reqres.in/), and there should be pagination controls to retrieve additional pages of data.
-- [ ] Each user should be able to toggle a side sliding panel/modal that is populated with that user's data.
+- [ ] Each user should be able to toggle a side sliding panel/modal that is populated with that user's data. You can make this look & behave pretty much however you want, but it should not trigger a full route transition.
 - [ ] Style it to the best of your ability using sass.
 - [ ] Do not use a front end framework such as bootstrap.
