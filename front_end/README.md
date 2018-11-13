@@ -15,7 +15,7 @@ team, they supersede the following.
 - [ ] Write tests that prove your functionality works.
 
 ## Bonus Points
-- [ ] Use [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass)
+- [ ] Use [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) instead of vanilla CSS to style your app.
 - [ ] Use [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) to isolate how you select elements in tests from your styling code and [ember-cli-mirage](https://www.ember-cli-mirage.com/) to isolate your tests from talking to a real API on the internet.
 
 If you have any questions about the requirements, please feel free to reach out to your interview
