@@ -1,6 +1,6 @@
 # Ember Project
 
-We've put your soft skills to the test, now we want to see some dope code! For this part of the interview, we would like you to create a small Ember.js app using this [API](https://reqres.in/). We would like for you to use ember-data to talk to this API, but if that turns out too complex, feel free to use a simpler library like [ember-ajax](https://github.com/ember-cli/ember-ajax).
+We've put your soft skills to the test, now we want to see some dope code! For this part of the interview, we would like you to create a small Ember.js app that requests and shows data from the [Reqres API](https://reqres.in/). We would like for you to use ember-data to talk to this API, but if you're having trouble getting ember-data to work, you can use a simpler addon like [ember-ajax](https://github.com/ember-cli/ember-ajax).
 
 If any special requirements have been conveyed to you from your interview
 team, they supersede the following.
