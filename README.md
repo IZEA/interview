@@ -28,10 +28,7 @@ project we would like you to build.
 We currently offer the following projects:
 
 - [Ember.js](front_end)
-- [iOS](ios)
-- [Android](android)
-- [Rails](rails)
-- [Web Services](web_services)
+- [Full Stack](full_stack)
 
 ### 2. Create a New Repository
 
@@ -62,9 +59,7 @@ reach out to us on [Twitter][twitter].
 
 ## About IZEA
 
-We are IZEA: The Creator Marketplace. Our cloud-based technologies connect
-Brands and Publishers with content Creators who blog, tweet, pin, and post on
-their behalf.
+IZEA is the pioneer of Social Sponsorship and a leader in Content Marketing. We build cloud-based marketplaces that connect top brands with scalable content generation and the most influential voices in social media. IZEA champions the creators and empowers brand and agency marketers to reach their goals.
 
 Our driving belief is that the only way to thrive in our rapidly changing world
 is to change ahead of it. IZEA is in a constant state of evolution and
