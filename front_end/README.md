@@ -12,6 +12,7 @@ team, they supersede the following.
 - [ ] We are not providing a mock for this, you will need to figure out a design that you feel represents the best user experience.
 - [ ] Do not use a front end framework such as bootstrap, but it's fine to use a utility framework like tailwind or neat.
 - [ ] The UI should be fairly responsive.
+- [ ] Provide a hosted link to your project. We suggest using something like [Netlify](https://www.netlify.com/).
 - [ ] Write tests that prove your functionality works.
 
 ## Bonus Points
